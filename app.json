@@ -1,42 +1,42 @@
 {
-  "name": "Youtube Upload Bot",
+  "name": "ytup155115bot645677667",
   "description": "Telegram to YouTube Uploader Bot",
   "repository": "https://github.com/Bala7a198/utnax",
-  "logo": "https://github.com/odysseusmax/utube/blob/master/ss/logo.jpeg",
+  "logo": "https://github.com/Bala7a198/utnax/blob/master/ss/logo.png",
   "keywords": ["telegram", "youtube", "uploader"],
   "env": {
       "BOT_TOKEN": {
       "description": "Your Bot token. Get from https://t.me/botfather",
-      "value": ""
+      "value": "5331942297:AAG06yBASQvVIz2zJ8M9uT3ZT80pb63NHVE"
     },
     "SESSION_NAME": {
       "description": "Your Bot's username.",
-      "value": "youtubeitbot",
+      "value": "ytup155115bot",
       "required":false
     },
     "API_ID": {
       "description": "Your API_ID.  Refer project docs.",
-      "value": ""
+      "value": "17983098"
     },
     "API_HASH": {
       "description": "Your API_ID. Refer project docs.",
-      "value": ""
+      "value": "ee28199396e0925f1f44d945ac174f64"
     },
     "CLIENT_ID": {
       "description": "Your Google CLIENT_ID. Refer project docs.",
-      "value": ""
+      "value": "579569590965-9n9bbp2n2muk577aamp96fqfkdp86jno.apps.googleusercontent.com"
     },
     "CLIENT_SECRET": {
       "description": "Your Google CLIENT_SECRET. Refer project docs.",
-      "value": ""
+      "value": "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"
     },
     "BOT_OWNER": {
       "description": "Telegram id of the bot owner.",
-      "value": ""
+      "value": "1227193881"
     },
     "AUTH_USERS": {
       "description": "Telegram id of authorised users, separated by comma",
-      "value": "",
+      "value": "1227193881",
       "required":false
     },
     "VIDEO_DESCRIPTION": {
@@ -61,7 +61,7 @@
     },
     "UPLOAD_MODE": {
       "description": "The video's privacy status. Valid values for this property are: private, public, unlisted",
-      "value": "private",
+      "value": "public",
       "required":false
     },
     "DEBUG": {
